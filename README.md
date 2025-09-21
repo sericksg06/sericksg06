@@ -9,4 +9,4 @@
 - **Supermarket Billing System (Java + SQL)** – Billing app with database [GitHub link]  
 - **Calculator (C)** – Basic arithmetic calculator [GitHub link]  
 
-📫 Reach me: [LinkedIn](www.linkedin.com/in/sericksg06) | [Email](sericksg06@gmail.com)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sericksg06) | [Email](mailto:sericksg06@gmail.com)
